@@ -1,6 +1,6 @@
 ## MapReduce  
 
- - An extnsive tutorial of MapReduce framework covering all Its features with examples.
+ <p>An extnsive tutorial of MapReduce framework covering all Its features with examples.</p>
  
 
 
