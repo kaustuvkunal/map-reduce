@@ -14,7 +14,7 @@ public class CmnFrndReducer extends Reducer<Text, Text, Text, Text>
     public void reduce(Text key, Iterable<Text> values,
             Context context) throws IOException, InterruptedException
     {
-        Set<String> set = new HashSet<>();
+        Set<String> set = new HashSet<String>();
         for ( Text value : values)
         {
             Collections.addAll(set, value.toString().split(",")); 
