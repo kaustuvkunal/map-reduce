@@ -6,7 +6,7 @@
 ### Topics 
 
 - Combiner :
-  > is mini reduce for a single Map task. Itoptimises the processing by minimising the amount of data being flown from one node to another. Use if reducer operation is commutative and associative Specify combiner in driver as job.setCombinerClass(SomeReducer.class); Conbiner Input and output key & value type are same.
+  > is mini reduce for a single Map task. It optimises the processing by minimising the amount of data being flown from one node to another. Use it if reducer operation is commutative and associative Specify combiner in driver as job.setCombinerClass(SomeReducer.class); Combiner's Input and output key & value type are same.
 - Distributed Cache
 - Custom Partitioner and Sorting using Custom Partitioner
 - Total-Order-Partitioner and sorting using Total-Order-Partitioner
