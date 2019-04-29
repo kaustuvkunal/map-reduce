@@ -1,7 +1,7 @@
 ## MapReduce  
 
  - An extnsive tutorial of MapReduce framework covering all Itsfeatures with examples.
-[pip](https://pip.pypa.io/en/stable/)
+ 
 
 
 ### Topics 
