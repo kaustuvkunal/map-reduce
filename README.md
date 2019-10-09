@@ -43,5 +43,5 @@
 - All example are tested with  Apache hadoop (2.7.5) psudodistribution mode
 
 
-###### Please feel free to drop a message if you find any mapreduce feature is missing. I will include.
+###### Please feel free to drop a message if you find any mapreduce feature is missing.
  
